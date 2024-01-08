@@ -1,0 +1,12 @@
+body {
+    font-family: 'Playfair Display', serif;
+}
+
+.Exp-btn {
+    text-decoration: none;
+    background-color: rgb(244, 152, 118);
+    padding: 15px 30px;
+    border-radius: 4px;
+    color: aliceblue;
+    font-size: 120%;
+}
