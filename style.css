@@ -2,11 +2,30 @@ body {
     font-family: 'Playfair Display', serif;
 }
 
+.intro-head {
+    display: flex;
+}
+
+.head-div {
+    width: 50%;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-top: 80px;
+    margin-bottom: 150px;
+
+}
+
+.head-line {
+    font-size: 40px;
+}
+
 .Exp-btn {
     text-decoration: none;
     background-color: rgb(244, 152, 118);
     padding: 15px 30px;
     border-radius: 4px;
     color: aliceblue;
-    font-size: 120%;
+    font-size: 100%;
+    margin-bottom: 200px;
+
 }
