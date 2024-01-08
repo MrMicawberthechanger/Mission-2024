@@ -31,7 +31,7 @@ body {
 
 .Exp-btn {
     text-decoration: none;
-    background-color: rgb(244, 152, 118);
+    background-color: rgb(251, 81, 19);
     padding: 15px 30px;
     border-radius: 4px;
     color: aliceblue;
@@ -95,4 +95,12 @@ body {
     background-size: 50%;
     background-position-x: 100%;
     background-position-y: 100%;
+}
+
+.footer {
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    padding: 50px;
+    margin-top: 50px;
 }
