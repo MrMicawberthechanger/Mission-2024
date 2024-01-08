@@ -55,3 +55,23 @@ body {
     padding: 20px;
     border-radius: 20px;
 }
+
+.coding-part {
+    display: flex;
+}
+
+.coding-div {
+    width: 40% 60%;
+    margin-top: 80px;
+    margin-right: 100px;
+    margin-left: 200px;
+    padding: 20px 0px 0px 80px;
+
+}
+
+#coding-div-1 {
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position-y: 50%;
+}
