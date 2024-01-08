@@ -75,3 +75,24 @@ body {
     background-size: 50%;
     background-position-y: 50%;
 }
+
+.project-part {
+    display: flex;
+}
+
+.project-div {
+    width: 40% 60%;
+    margin-top: 80px;
+    margin-right: 100px;
+    margin-left: 200px;
+    padding: 20px 0px 60px 60px;
+
+}
+
+#project-div-2 {
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position-x: 100%;
+    background-position-y: 100%;
+}
